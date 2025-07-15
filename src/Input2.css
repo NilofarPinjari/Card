@@ -8,7 +8,11 @@
   width: 300px;
   margin-right: 10px;
 }
-
+.output {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
 .submit{
   padding: 10px 20px;
   font-size: 16px;
@@ -19,8 +23,4 @@
   font-weight:bold;
 }
 
-.output {
-  margin-top: 20px;
-  font-size: 18px;
-  color: #333;
-}
+
