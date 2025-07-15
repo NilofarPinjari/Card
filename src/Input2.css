@@ -1,6 +1,5 @@
 .container {
   text-align: center;
-  margin-top: 50px;
 }
 
 .input {
@@ -11,7 +10,7 @@
 .output {
   margin-top: 20px;
   font-size: 18px;
-  color: #333;
+  color: black;
 }
 .submit{
   padding: 10px 20px;
