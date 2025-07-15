@@ -17,6 +17,8 @@
   padding: 10px 20px;
   font-size: 16px;
   margin-top: 10px;
+  border-radius: 20px;
+  background-color: rgb(110, 110, 181);
 }
 
 .error {
