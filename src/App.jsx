@@ -1,7 +1,8 @@
 
 import './App.css'
 
-import Input2 from "./Input2.jsx"
+// import Input2 from "./Input2.jsx"
+import Forms from "./Forms.jsx"
 
 function App() {
  
@@ -9,10 +10,11 @@ function App() {
   return (
     <>
     {/* <Card /> */}
-    <Input2 />
+    {/* <Input2 /> */}
+    <Forms />
     
     </>
-  )
+  );
 }
 
 export default App
