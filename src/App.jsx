@@ -1,7 +1,7 @@
 
 import './App.css'
 
-import Input from "./Input.jsx"
+import Input2 from "./Input2.jsx"
 
 function App() {
  
@@ -9,7 +9,8 @@ function App() {
   return (
     <>
     {/* <Card /> */}
-    <Input />
+    <Input2 />
+    
     </>
   )
 }
